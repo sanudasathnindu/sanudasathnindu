@@ -10,7 +10,7 @@
 
 ### Hello 👋
 
-- 🌱 I’m currently learning **java**
+- 🌱 I’m currently learning **Web Development**
 - 🧑‍🎓 I’m an Undergraduate at **UCSC**
 - 💬 Ask me about **New Tech Updates**
 - 📫 How to reach me **sanudasathnindu5@gmail.com**
