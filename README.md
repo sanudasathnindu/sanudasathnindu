@@ -7,7 +7,7 @@
 </p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sanudasathnindu&label=Profile%20views&color=0e75b6&style=flat" alt="sanudasathnindu" /> </p>
 
-
+<img align="right" width=150px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
 ### Hello 👋
 
