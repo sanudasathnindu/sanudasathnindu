@@ -57,7 +57,8 @@
 <p align="center">
 <a href="https://linkedin.com/in/sanuda ganegoda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanuda ganegoda" height="30" width="40" /></a>
 <a href="https://fb.com/sanuda sathnindu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sanuda sathnindu" height="30" width="40" /></a>
-<a href="https://instagram.com/_.sanuwa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sanuwa._" height="30" width="40" /></a>
+<a href="https://instagram.com/_.sanuwa._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.sanuwa._" height="30" width="40" /><img align="center"src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png"  alt="Gmail"  height="30"width="30px"  />
+</a>
 </p>
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
