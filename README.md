@@ -69,7 +69,7 @@
 
 **⭐️ If you find my work interesting, feel free to star my repositories! ⭐️**
 
-*Made with ❤️ and lots of ☕* <br/>
+| *Enjoy the process* 📈🫂 | <br/>
 &copy; 2026 sanudasathnindu
 
 </div>
