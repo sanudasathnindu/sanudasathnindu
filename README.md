@@ -63,3 +63,14 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
 </div>
+
+---
+<div align="center">
+
+**⭐️ If you find my work interesting, feel free to star my repositories! ⭐️**
+
+*Made with ❤️ and lots of ☕* <br/>
+&copy; 2026 sanudasathnindu
+
+</div>
+
