@@ -72,5 +72,7 @@
 | *Enjoy the process* 📈🫂 | <br/>
 &copy; 2026 sanudasathnindu
 
+[![Mentioned in Awesome GitHub Profile README](https://awesome.re/mentioned-badge-flat.svg)](https://github.com/sanudasathnindu/awesome-github-profile-readme)
+
 </div>
 
